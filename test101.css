@@ -1,0 +1,29 @@
+
+.textCenter {
+   text-align: center;
+}
+
+img {
+    height: 20%;
+    width: 20%;
+}
+
+h1, h3{
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+button:hover{
+    background-color: beige;
+}
+
+@media only screen and (min-width: 1024px) {
+    body{ background: blue; }
+    }
+    
+body{ background: aqua; }
